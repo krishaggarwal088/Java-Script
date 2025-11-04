@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JavaScript Maths</title>
-</head>
-<body>
-    <script type="text/javascript">
-
         var value = Math.abs(20);
         document.write("Demo Test Value : " + value
         +"<br>");
@@ -23,7 +13,3 @@
         var value = Math.atan(.5);
         document.write("Demo3 Test Value : " + value
         +"<br>");
-</script>
-             <script src="script3.js"></script>
-</body>
-</html>
